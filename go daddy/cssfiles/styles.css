@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar item  */
+.a1 {
+    text-transform: capitalize;
+    font-size: 1.1rem;
+
+}
+
+.a2 {
+    border: solid 1px black;
+    height: 70px;
+
+}
+
+.a4 {
+    margin-top: 30px;
+}
+
+.a5 {
+    background-image: url(/images/img-mrq-domain_search-landscape.jpg);
+    height: 400px;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+   
+}
+.a6{
+    margin-left: 9vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.aa6{
+    margin-top: 11vh;
+}
+.aa{
+    font-size: 3vh;
+}
+.aaa{
+    font-size: 6vh;
+    font-weight: 800;
+}
+.a7{
+    text-align: center;
+}
+.a8{
+    font-size: 3.5vw;
+    font-weight: 900;
+}
+.a9{font-size: 1vw;
+    font-weight: 700;
+}
+.a11{
+    font-size: 8vh;
+    font-weight: 800;
+}
+.a12{
+    font-size: 3.125rem;
+    font-weight: 600;
+    text-align: center;
+}
+.a13{
+    text-align: center;
+}
+.a14{
+    background-color: #f4f8fc;
+    height: 30rem;
+    border: 1px solid  #f4f8fc;
+}
+.a15{
+     font-size: 3vh;
+     font-weight: 600;
+    
+
+}
+.a16{
+    font-size: 3vh;
+    font-weight: 600;
+    border: 2px solid black;
+
+}
+.a17{
+    font-size: 7vh;
+    font-weight: 700;
+    text-align: center;
+    
+
+}
+.b1{
+    font-size: 9vh;
+    font-weight: 700;
+}
+.b2{
+    font-size: 2vh;
+    font-weight: 700;
+    word-spacing: 1vh;
+}
+.b3{
+    font-size: 4vh;
+    font-weight: 600;
+}
+.b4{
+    background-color:  #f4f8fc;
+}
+.b5{
+    font-size: 10vh;
+    font-weight: 700;
+    word-spacing: 1vh;
+    text-align: center;
+}
+.ff{
+    color: white;
+    background-color: black;
+}
+.f1{
+    font-size: 3vh;
+    font-weight: 500;
+
+}
+.f2{
+    font-size: 6vh;
+    font-weight: 700;
+}
+.f3{
+    /* border: 1px solid white; */
+}
+.pp{
+    font-size: 3vh;
+    font-weight: 500;
+    color: whitesmoke;
+}
